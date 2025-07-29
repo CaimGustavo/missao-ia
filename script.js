@@ -6,18 +6,16 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Assim que saiu da escola Caim se depara com uma nova tecnologia, um chat que consegue responder todas as dúvidas que uma pessoa pode ter, ele também gera imagens e áudios hiper-realistas. Qual o primeiro pensamento?",
+        enunciado: "considerando um cenário hipotético onde a licantropia (condição de lobisomem) fosse uma doença contagiosa, qual seria o papel de um 'tratamento' de saúde pública no controle de sua disseminação, e como a 'caça ilegal' a lobisomens impactaria os esforços para gerenciar essa condição?",
         alternativas: [
             {
-                texto: "Isso é assustador!",
-                afirmacao: ["No início ficou com medo do que essa tecnologia pode fazer. ",
-                    "Achou assustador pensar na velocidade na qual a tecnologia está avançando."
+                texto: " A caça ilegal dificultaria imensamente o tratamento e controle da licantropia como uma doença. Imagine que, para combater uma epidemia, é preciso identificar e isolar os indivíduos infectados para que recebam o tratamento adequado!",
+                afirmacao: ["A caça criaria um ambiente de extremo medo e estigma. Lobisomens, ou pessoas com a condição de licantropia, seriam vistas como ameaças a serem eliminadas, em vez de pacientes que necessitam de cuidado"
                 ]
             },
             {
-                texto: "Isso é maravilhoso!",
-                afirmacao: ["Quis saber como usar IA no seu dia a dia.",
-                    "Foi atrás de vídeos, artigos e mais informaçõe sobre como utilizar essa tecnologia."
+                texto: "Se lobisomens fossem uma espécie rara, a caça ilegal poderia levar à extinção ou à drástica redução de sua população. Isso significaria a perda de qualquer oportunidade de estudo científico para entender a condição",
+                afirmacao: ["A existência de caçadores ilegais operando à margem da lei minaria a autoridade do estado e a confiança nas instituições. Em vez de uma resposta coordenada de saúde pública e segurança"
                 ]
             }
         ]
